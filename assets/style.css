@@ -4,7 +4,7 @@ body {
 
 .bg-light {
   background: #1F1F1F !important;
-  border-bottom: 2px solid #41f86c;
+  border-bottom: 2px solid #367bad;
 }
 
 .nav-item {
@@ -43,7 +43,7 @@ body {
   padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
   font-size: var(--bs-navbar-toggler-font-size);
   line-height: 1;
-  color: rgb(210, 20, 20);
+  color: white;
   background-color: whitesmoke;
   border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
   border-radius: var(--bs-navbar-toggler-border-radius);
